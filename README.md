@@ -6,6 +6,8 @@ I am an undergraduate student from China,majoring in Geographic information scie
 - 😄 My school:[HUAS](https://www.huas.edu.cn/)
 - ⚡ My blog:[This is my blog ](https://dundunn.cloud/)
 
+- ![](https://huangkunkun.oss-cn-hangzhou.aliyuncs.com/hkk/506186772ca91d7dec0c7010dbb62ea7.jpg)
+
 <!--
 **hsk1485056814/hsk1485056814** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
