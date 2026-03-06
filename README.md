@@ -2,9 +2,9 @@
 I am an undergraduate student from China,majoring in Geographic information science.
 
 ## Hi there 👋
-- 📫 About geography:[geography](geography.utk.edu)
+- 📫 About geography:[geography](https://geography.utk.edu/)
 - 😄 My school:[HUAS](https://www.huas.edu.cn/)
-- ⚡ My blog:[This is my blog](dundunn.cloud) 
+- ⚡ My blog:[This is my blog ](https://dundunn.cloud/)
 
 <!--
 **hsk1485056814/hsk1485056814** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
